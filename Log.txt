@@ -1,0 +1,17 @@
+
+abr. 27, 2023 9:06:23 PM Principal main
+INFO: A Aplicação calculadora foi iniciada.
+abr. 27, 2023 9:06:30 PM Principal main
+INFO: Informações para as operações foram coletadas, operador: +a: 3.0b: 1.0
+abr. 27, 2023 9:06:30 PM Calculadora calcular
+INFO: Dentro da classe Calculadora, método calcular.
+abr. 27, 2023 9:06:30 PM Calculadora calcular
+INFO: O case '+' foi executado
+abr. 27, 2023 9:06:30 PM Calculadora calcular
+INFO: O case '-' foi executado
+abr. 27, 2023 9:06:30 PM Calculadora calcular
+INFO: O case '/' foi executado
+abr. 27, 2023 9:06:30 PM Calculadora calcular
+INFO: O case '*' foi executado
+abr. 27, 2023 9:06:30 PM Principal main
+INFO: Operações da aplicação foram finalizadas com o resultado: 3.0
